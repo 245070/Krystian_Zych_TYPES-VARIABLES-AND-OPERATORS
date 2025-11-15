@@ -1,0 +1,54 @@
+
+ ~2.1 objaśnienie~
+
+Lista krótkich objaśnień i przykładów w Pythonie:
+
++ : dodawanie (dla liczb); łączenie dla sekwencji (stringi, listy)
+Przykład: 2 + 3 == 5, "a" + "b" == "ab"
+
+* : mnożenie; powielanie sekwencji
+Przykład: 3 * 4 == 12, "a" * 3 == "aaa"
+
+** : potęgowanie
+Przykład: 2 ** 3 == 8
+
+/ : dzielenie 
+Przykład: 7 / 2 == 3.5
+
+// : dzielenie całkowite (floor — zaokrągla w dół)
+
+% : modulo — reszta z dzielenia
+Przykład: 7 % 3 == 1
+
+> : większy niż (porównanie)
+Przykład: 5 > 3 == True
+
+<= : mniejsze lub równe (porównanie)
+Przykład: 3 <= 3 == True
+
+przykłady w pythonie:
+print(2 + 3)    # 5
+print("a" * 3)  # 'aaa'
+print(2 ** 3)   # 8
+print(7 / 2)    # 3.5
+print(7 // 2)   # 3
+print(7 % 3)    # 1
+print(5 > 3)    # True
+print(3 <= 3)   # True
+
+
+
+Nawigator ::
+
+1.py - z 3.1
+9.py - z 4.1
+12.py - z 5.1
+17.py - z 6.1
+27.py - z 7.1
+36.py - z 8.1
+
+
+
+
+
+
